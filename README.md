@@ -1,2 +1,2 @@
 # works
-All works done in Purdue University Fort Waye
+works done in Purdue University Fort Waye
